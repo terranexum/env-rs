@@ -1,0 +1,873 @@
+﻿PWS ID,PWS Name,County,Population Served,Fluoridated,Fluoride Conc.
+CO-0101001,Commerce Heights,Adams,105,Yes,0.7
+CO-0101015,Belleview College,Adams,372,No,0
+CO-0101020,Bennett-Town of,Arapahoe,31,Yes,1.89
+CO-0101020,Bennett-Town of,Adams,2479,Yes,1.89
+CO-0101025,Brighton-Reverse Osmosis WTP,Adams,44684,Yes,0.7
+CO-0101030,Brighton MHP,Adams,62,Yes,0.86
+CO-0101031,ESTATES AT BROMLEY,Adams,121,Yes,1.76
+CO-0101034,EASTGATE VILLAGE MANUFACTURED HOMES,Adams,1214,Yes,0.7
+CO-0101040,CRESTVIEW W&ampSD,Adams,14571,Yes,0.7
+CO-0101055,Federal Heights-City of,Adams,9453,No,0.48
+CO-0101060,Galambs Mobile Home Park,Adams,105,Yes,1.96
+CO-0101063,Great Rock North W&ampSD,Adams,778,Yes,0.62
+CO-0101065,Green Acres MHP,Adams,263,Yes,1.33
+CO-0101070,Hazeltine Heights W&ampSD,Adams,211,Yes,2.53
+CO-0101075,Hi-Land Acres W&ampSD,Adams,283,Yes,1.57
+CO-0101080,High Plains WUA,Adams,162,Yes,1.71
+CO-0101085,Hillcrest Village MHP,Adams,1218,Yes,0.68
+CO-0101095,Lincoln MHP and Motel,Adams,188,Yes,1.95
+CO-0101100,Mountian View WUA,Adams,259,Yes,1.39
+CO-0101105,North Washington W&ampSD,Adams,11737,Yes,0.7
+CO-0101110,N Washington WUA,Adams,73,Yes,1.4
+CO-0101115,Northglenn-City of,Adams,39606,No,0.41
+CO-0101125,Prairie View Subdivision,Adams,142,Yes,1.76
+CO-0101130,Shady Lane MHP,Adams,134,Yes,0.7
+CO-0101138,BERKELEY VILLAGE MOBILE HOME PARK,Adams,836,Yes,0.7
+CO-0101140,So. Adams County W&ampSD,Adams,54405,Yes,0.7
+CO-0101145,Strasburg W&ampSD,Adams,1659,Yes,1.48
+CO-0101150,Thornton-City of,Adams,126036,Yes,0.7
+CO-0101155,Third Creek Estate,Adams,73,Yes,2.53
+CO-0101157,Todd Creek MD,Adams,4718,Yes,0.33
+CO-0101158,Tucson Water,Adams,73,Yes,3.1
+CO-0101166,CAVANAUGH HILLS WS,Adams,232,Yes,2.4
+CO-0101170,Westminster-City of,Adams,156131,No,0.48
+CO-0101175,Hope Ditch Co,Adams,51,Yes,2.57
+CO-0101180,Wikiup MHP,Adams,2024,Yes,2.35
+CO-0101187,Crestwood Estates,Adams,113,No,3.55
+CO-0101188,Creekside South Estates Metro District,Adams,130,No,4.01
+CO-0101234,EASTERN ADAMS CO METROPOLITAN DISTRICT,Adams,1465,Yes,2.06
+CO-0101510,Mile High Water Company,Adams,567,Yes,0.7
+CO-0101675,Riverdale Peaks II MD,Adams,169,No,0
+CO-0101800,Valley Vista Estates,Adams,41,Yes,1.13
+CO-0102100,Alamosa-City of,Alamosa,7763,No,0.5
+CO-0102200,East Alamosa W&ampSD,Alamosa,1375,No,0.5
+CO-0102300,High Valley Estates MHP,Alamosa,69,Yes,0.81
+CO-0102900,Wagon Wheel Trailer Park,Alamosa,130,Yes,2.28
+CO-0103005,"Aurora, City of",Arapahoe,358087,Yes,0.68
+CO-0103005,"Aurora, City of",Adams,36427,Yes,0.68
+CO-0103005,"Aurora, City of",Douglas,0,Yes,0.68
+CO-0103010,Byers W&ampSD,Arapahoe,809,Yes,0.83
+CO-0103025,Country Gardens MHP,Arapahoe,93,No,0.46
+CO-0103030,Deer Trail-Town of,Arapahoe,567,Yes,0.59
+CO-0103035,E Cherry Creek Valley W&ampSD,Arapahoe,53531,Yes,0.68
+CO-0103040,East Valley,Arapahoe,186,Yes,1.4
+CO-0103045,Englewood-City of,Arapahoe,46409,Yes,0.54
+CO-0103050,Foxridge Farm MHP,Arapahoe,1166,Yes,2.33
+CO-0103055,GLENDALE-CITY OF,Arapahoe,3562,Yes,0.7
+CO-0103055,GLENDALE-CITY OF,Denver,0,Yes,0.7
+CO-0103075,Ken Caryl Ranch WSD,Jefferson,9714,Yes,0.7
+CO-0103079,Stage Run HOA,Arapahoe,121,Yes,1.1
+CO-0103081,ROLLING PLAINS ESTATE,Arapahoe,32,No,0.34
+CO-0103090,Travois HOA,Arapahoe,142,Yes,1.03
+CO-0103100,Willows WD,Arapahoe,15380,Yes,0.7
+CO-0103153,Bow Mar W&ampSD,Arapahoe,728,Yes,0.7
+CO-0103176,Cherry Creek Village WD,Arapahoe,7459,Yes,0.7
+CO-0103186,Country Homes MD,Arapahoe,81,Yes,0.7
+CO-0103418,Joint Water Purification Plant,Arapahoe,0,Yes,1.04
+CO-0103614,Platte Canyon WSD,Arapahoe,15773,Yes,0.7
+CO-0103666,RANGEVIEW JUVENILE MD,Arapahoe,1160,Yes,1.64
+CO-0103721,Southgate W&ampSD,Arapahoe,44522,Yes,0.7
+CO-0103723,Southwest Metro W&ampSD,Arapahoe,39380,Yes,0.7
+CO-0104090,ALPINE LAKES RANCH WATER COMPANY,Archuleta,157,No,0.32
+CO-0104121,Aspen Springs MD,Archuleta,235,Yes,2.36
+CO-0104300,PAGOSA AREA W+SD,Archuleta,8960,No,0.2
+CO-0104393,Crowley Ranch Reserve,Archuleta,35,No,0.22
+CO-0104533,NAVAJO RIVER RANCH POA,Archuleta,40,No,0.2
+CO-0104700,Piedra Park Metro Imp. Dist.,Archuleta,688,No,0.2
+CO-0104900,San Juan River Village MD,Archuleta,710,No,0.11
+CO-0105100,Campo-Town of,Baca,121,Yes,1.2
+CO-0105300,Pritchett-Town of,Baca,146,Yes,1.2
+CO-0105500,Springfield-Town of,Baca,1115,Yes,0.84
+CO-0105700,Two Buttes-Town of,Baca,47,Yes,0.81
+CO-0105800,Vilas-Town of,Baca,111,Yes,1.44
+CO-0105900,Walsh-Town of,Baca,526,Yes,0.85
+CO-0106200,Hasty WC,Bent,198,Yes,1.02
+CO-0106300,Las Animas RO Plant-Town of,Bent,1951,Yes,0.7
+CO-0106500,McClave Water Association,Bent,356,Yes,1.02
+CO-0106900,Ft.Lyon VA Medical Center,Bent,243,No,1.5
+CO-0107100,A 1 DISCOUNT WC,Boulder,202,Yes,0.7
+CO-0107115,Allenspark W&ampSD,Boulder,275,No,0.1
+CO-0107135,Baseline Water District,Boulder,664,Yes,0.7
+CO-0107152,Boulder,Boulder,134439,Yes,0.7
+CO-0107155,Broomfield-City of,Broomfield,85929,Yes,0
+CO-0107179,BOULDER MEADOWS MHP,Boulder,1341,Yes,0.7
+CO-0107236,East Boulder County Water District,Boulder,243,Yes,0.7
+CO-0107246,Eldorado Artesian Springs,Boulder,210,No,0.1
+CO-0107321,Grace Mar,Boulder,40,Yes,0.7
+CO-0107352,Hoover Hills W&ampSD,Boulder,536,Yes,0.7
+CO-0107401,Jamestown-Town of,Boulder,227,Yes,0.25
+CO-0107471,LEFT HAND WATER,Boulder,17365,Yes,0.7
+CO-0107472,Lefthand W&ampSD/Lake of the Pines,Boulder,202,Yes,0.7
+CO-0107473,Lafayette-City of,Boulder,23232,Yes,0.7
+CO-0107485,LONGMONT,Boulder,80648,Yes,0.7
+CO-0107486,Longs Peak Water District,Boulder,1498,Yes,0.7
+CO-0107486,Longs Peak Water District,Weld,1093,Yes,0.7
+CO-0107487,LOUISVILLE,Boulder,16979,Yes,0.7
+CO-0107489,Lark Meadows WD,Boulder,70,Yes,0.83
+CO-0107496,Lyons-Town of,Boulder,2912,Yes,0.7
+CO-0107502,Maple Grove WD,Boulder,28,Yes,0.66
+CO-0107510,Mile Hi Water Inc Hauler,Boulder,809,Yes,0.7
+CO-0107538,Nederland-Town of,Boulder,1948,No,0.12
+CO-0107582,Old Stage WD,Boulder,202,No,0.26
+CO-0107610,Pine Brook WD,Boulder,890,No,0.2
+CO-0107701,San Lazaro MHP,Boulder,683,Yes,0.7
+CO-0107702,San Souci MHP,Boulder,121,No,0.55
+CO-0107710,Shannon WD,Boulder,364,Yes,1.42
+CO-0107719,Spring Valley Mutual Water,Boulder,81,No,0.44
+CO-0107725,"Superior, Town of",Boulder,13899,Yes,0.7
+CO-0107733,Table Mesa Village MHP,Boulder,61,No,0.19
+CO-0107834,Ward-Town of,Boulder,186,No,0.1
+CO-0108050,Pinon Pines MHP,Chaffee,81,No,0.19
+CO-0108300,Buena Vista-Town of,Chaffee,3057,No,0.1
+CO-0108313,Glenview Owners Assoc,Chaffee,36,No,0.16
+CO-0108350,Buena Vista Correctional,Chaffee,1376,No,0.1
+CO-0108375,CASA DEL RIO SUBDIVISION,Chaffee,59,Yes,1.1
+CO-0108415,Game Trail Subdivision,Chaffee,389,No,0.24
+CO-0108450,Collegiate Valley MV,Chaffee,73,No,0.5
+CO-0108525,Mesa Antero Water Association,Chaffee,202,Yes,1.06
+CO-0108600,Mountain Vista Village,Chaffee,81,Yes,1.29
+CO-0108650,Poncha Springs-Town of,Chaffee,1188,No,0.62
+CO-0108655,Princeton Estates Subdivision,Chaffee,121,No,0.37
+CO-0108700,Salida-City of,Chaffee,4857,Yes,0.34
+CO-0108800,Eastside MHP,Chaffee,32,No,0.49
+CO-0108900,Trails West Association,Chaffee,202,No,0.1
+CO-0108925,Ute Heights Community WS,Chaffee,56,Yes,1.14
+CO-0108960,Westwinds WD,Chaffee,51,No,0.45
+CO-0109001,Arapahoe Water Co.,Cheyenne,79,Yes,0.64
+CO-0109006,Cheyenne Wells-Town of,Cheyenne,680,No,0.49
+CO-0109011,Kit Carson-Town of,Cheyenne,264,Yes,0.62
+CO-0110010,Empire-Town of,Clear Creek,405,No,0.42
+CO-0110015,Georgetown-Town of,Clear Creek,1165,No,0.2
+CO-0110020,Idaho Springs-City of,Clear Creek,7601,No,0.22
+CO-0110025,Lawson Trailer Court,Clear Creek,73,No,0.56
+CO-0110026,Lookout Mountian WD,Clear Creek,1115,No,0.2
+CO-0110035,Silver Plume-Town of,Clear Creek,146,Yes,0.93
+CO-0110040,St. Mary's Glacier W&ampSD,Clear Creek,365,No,0.22
+CO-0110045,Valli Hi MHP,Clear Creek,43,No,0.18
+CO-0110050,Western Inn,Clear Creek,36,Yes,0.37
+CO-0111100,Antonito-Town of,Conejos,794,No,0.1
+CO-0111200,Capulin Water District,Conejos,202,No,0.15
+CO-0111500,Guadalupe Water Association,Conejos,34,No,0.11
+CO-0111600,LaJara-Town of,Conejos,668,No,0.34
+CO-0111700,Manassa-Town of,Conejos,783,No,0.34
+CO-0111800,Romeo-Town of,Conejos,364,No,0.2
+CO-0111900,Sanford-Town of,Conejos,688,No,0.19
+CO-0112100,Blanca-Town of,Costilla,381,No,0.25
+CO-0112300,Costilla County W&ampS,Costilla,454,Yes,0.56
+CO-0112500,Ft. Garland W&ampSD,Costilla,386,No,0.4
+CO-0112700,Garcia Domestic Water Users Assn,Costilla,81,Yes,0.67
+CO-0112810,Viejo San Acacio,Costilla,36,No,0
+CO-0112850,San Acacio Domestic WA,Costilla,32,No,0.46
+CO-0112900,San Luis W&ampSD,Costilla,509,No,0.46
+CO-0113050,96 Pipeline Co Inc,Crowley,231,Yes,0.92
+CO-0113100,Crowley County WA,Crowley,429,Yes,0.92
+CO-0113200,Crowley County Water System,Crowley,0,Yes,0.92
+CO-0113300,Crowley-Town of,Crowley,152,Yes,0.92
+CO-0113500,Olney Springs-Town of,Crowley,323,Yes,0.92
+CO-0113700,Ordway-Town of,Crowley,1052,Yes,0.92
+CO-0113900,Sugar City-Town of,Crowley,194,Yes,1.3
+CO-0114500,Round Mtn W&ampSD,Custer,1578,No,0.3
+CO-0114550,TV Hills Subd,Custer,31,No,0.38
+CO-0115152,Bone Mesa Water C.C.,Delta,324,No,0.11
+CO-0115168,Catherdral Water Company,Delta,162,No,0.1
+CO-0115171,Cedaredge-Town of,Delta,1663,No,0.1
+CO-0115185,Coalby Domestic Water Co.,Delta,193,No,0.1
+CO-0115188,Crawford-Town of,Delta,404,No,0.1
+CO-0115189,Crawford Mesa Water Assoc.,Delta,393,No,0.1
+CO-0115205,Delta-City of,Delta,7042,No,0.27
+CO-0115288,Fruitland Domestic Water Co.,Montrose,271,No,0.1
+CO-0115333,Hanson Mesa Domestic Pipeline Co Inc,Delta,202,Yes,0.7
+CO-0115340,Hammond Pipeline,Delta,57,No,0.11
+CO-0115352,Hotchkiss-Town of,Delta,1659,Yes,0.7
+CO-0115467,Lazear Domestic Water,Delta,144,Yes,0.6
+CO-0115588,Orchard City-Town of,Delta,2509,No,0.11
+CO-0115601,Paonia-Town of,Delta,2023,No,0.11
+CO-0115610,Pitkin Mesa Pipeline,Delta,239,No,0.37
+CO-0115685,Rogers Mesa Domestic Water,Delta,680,Yes,0.7
+CO-0115724,Stewart Mesa WC,Delta,202,No,0.11
+CO-0115725,Sunshine Mesa Domestic WC,Delta,62,No,0.36
+CO-0115726,Stucker Mesa Domestic WC,Delta,29,No,0.12
+CO-0115784,UPPER SURFACE CREEK DOMESTIC WUA,Delta,2186,No,0.1
+CO-0116001,DENVER,Arapahoe,141659,Yes,0.7
+CO-0116001,DENVER,Adams,33998,Yes,0.7
+CO-0116001,DENVER,Denver,683260,Yes,0.7
+CO-0116001,DENVER,Jefferson,232321,Yes,0.7
+CO-0116001,DENVER,Douglas,11333,Yes,0.7
+CO-0116175,Cherry Creek Valley W&ampSD,Denver,16190,Yes,0.7
+CO-0116552,North Lincoln W&ampSD,Jefferson,809,Yes,0.7
+CO-0116553,North Pecos W&ampSD,Adams,2024,Yes,0.7
+CO-0117300,Dove Creek-Town of,Dolores,688,No,0.1
+CO-0117700,Rico-Town of,Dolores,311,No,0.07
+CO-0118001,Beverly Hills Mutual Inc,Douglas,263,Yes,0.81
+CO-0118002,Bell Mountain Ranch WD,Douglas,809,No,0.68
+CO-0118005,Castle Pines Village MD,Douglas,4107,Yes,0.8
+CO-0118006,Castle Pines North MD,Douglas,7933,Yes,0.8
+CO-0118010,Castle Rock-Town of,Douglas,80751,No,1.65
+CO-0118015,Centennial W&ampSD,Douglas,83736,Yes,1.06
+CO-0118016,Northern Douglas County W&ampSD,Douglas,4986,Yes,1.06
+CO-0118020,Cottonwood W&ampS,Douglas,8797,No,0
+CO-0118025,Denver SE Suburban W&ampSD,Douglas,10443,No,1.03
+CO-0118030,Larkspur-Town of,Douglas,223,Yes,1.21
+CO-0118035,Louviers Mutual Service Co.,Douglas,193,Yes,1.36
+CO-0118040,Parker W&ampSD,Douglas,48392,Yes,0.9
+CO-0118045,Perry Park Water & Sanitation,Douglas,2683,No,1.34
+CO-0118055,Roxborough Park WSD,Douglas,8598,Yes,0.68
+CO-0118060,Sedalia W&ampSD,Douglas,174,Yes,1.45
+CO-0118065,Sierra Vista HOA,Douglas,97,Yes,2.16
+CO-0118075,Silver Heights W&ampSD,Douglas,244,Yes,0.6
+CO-0118076,Stonegate MD,Douglas,12200,Yes,1.2
+CO-0118078,Thunderbird W&ampSD,Douglas,397,Yes,1.34
+CO-0118080,View Ridge WD,Douglas,28,Yes,3
+CO-0118085,Westcreek Lakes WD,Douglas,134,Yes,3.69
+CO-0118175,Chatfield South WD,Douglas,253,Yes,0.7
+CO-0118285,Foxhill MD,Douglas,100,Yes,2.32
+CO-0119124,Aspen Basalt Trailer Park,Eagle,121,No,0.23
+CO-0119125,Aspen Mesa,Eagle,182,Yes,0.39
+CO-0119134,Basalt-Town of,Eagle,1720,No,0.1
+CO-0119139,Bellyache Ridge MD,Eagle,208,Yes,0.7
+CO-0119233,Eagle-Town of,Eagle,5635,Yes,0.7
+CO-0119234,Eagle River MHP,Eagle,1214,No,0.11
+CO-0119246,El Jebel MHP,Eagle,1588,No,0.18
+CO-0119321,Green Acres MHP,Eagle,101,No,0.1
+CO-0119329,Gypsum-Town of,Eagle,6285,No,0.1
+CO-0119352,Homestead Park,Eagle,24,No,0.1
+CO-0119467,Lake Creek Meadows WD,Eagle,329,No,0.2
+CO-0119501,Dotsero MHP,Eagle,185,No,0.1
+CO-0119508,Mid Valley MD - Phase I,Eagle,3643,No,0.19
+CO-0119510,Minturn-Town of,Eagle,971,No,0.2
+CO-0119671,"Red Cliff, Town of",Eagle,365,No,0
+CO-0119672,Red Table Acres HOA,Eagle,73,No,0.52
+CO-0119673,RED SKY RANCH,Eagle,236,No,0
+CO-0119692,Ruedi Shores MD,Eagle,134,No,0.24
+CO-0119717,Spring Park Meadows,Eagle,31,No,0.3
+CO-0119718,Sopris Villiage Homeowners Assn,Eagle,344,No,0.17
+CO-0119720,TWO RIVERS VILLAGE,Eagle,621,No,0.36
+CO-0119802,Eagle River Water and Sanitation District (ERWSD),Eagle,15664,Yes,0.7
+CO-0120001,Agate WUA,Elbert,113,Yes,0.54
+CO-0120003,CLEARWATER MD,Elbert,162,Yes,0.66
+CO-0120005,Elbert W&ampSD,Elbert,243,No,0.5
+CO-0120010,Elizabeth-Town of,Elbert,1162,No,0.46
+CO-0120015,Kiowa-Town of,Elbert,510,No,0.47
+CO-0120020,Prairie Water Co,Elbert,243,Yes,2.36
+CO-0120025,Simla-Town of,Elbert,500,Yes,0.58
+CO-0120153,Britanie Ridge WS,Elbert,198,Yes,0.83
+CO-0120184,COYOTE HILLS WATER SYSTEM,Elbert,68,No,0.41
+CO-0120244,ELKHORN RANCH MD NO 1,Elbert,429,Yes,1.27
+CO-0120245,ELBERT COUNTY HWY 86 WATER DISTRICT,Elbert,619,Yes,1.84
+CO-0120246,Deer Creek Farm Water Co.,Elbert,641,No,0.31
+CO-0120300,Gamble Oaks Home Owners,Elbert,283,Yes,1.46
+CO-0120384,Independence WSD,Elbert,459,Yes,1.76
+CO-0120717,SPRING VALLEY RANCH WS,Elbert,1156,No,0.42
+CO-0121025,Academy W&ampSD,El Paso,607,No,0.35
+CO-0121050,Arrowhead MHP,El Paso,109,Yes,0.86
+CO-0121060,Bobcat Meadows MD,El Paso,380,No,0
+CO-0121075,Calhan-Town of,El Paso,631,No,0.8
+CO-0121080,CAMELOT SUBDIVISION,El Paso,49,No,0.36
+CO-0121111,4 Way Ranch MD 2,El Paso,117,Yes,1.36
+CO-0121125,Cherokee- East CO-SPGS,El Paso,18618,No,0.46
+CO-0121140,COLORADO CENTRE METRO DISTRICT,El Paso,2975,No,0.39
+CO-0121150,Colorado Springs-City of,El Paso,375690,No,0.39
+CO-0121175,Donala WSD,El Paso,5343,No,0.39
+CO-0121200,Elephant Rock MHP,El Paso,49,No,0.54
+CO-0121220,Peaks Shadow LLC,El Paso,54,No,0.48
+CO-0121240,Falcon Heights,El Paso,243,Yes,2.14
+CO-0121245,Ellicott Springs,El Paso,220,No,0.46
+CO-0121247,FALCON HIGHLANDS METRO DISTRICT,El Paso,850,Yes,0.98
+CO-0121250,Forest View Acres WD,El Paso,625,Yes,1.32
+CO-0121275,Fountain-City of,El Paso,20342,No,0.39
+CO-0121300,Fountain Valley Authority,El Paso,11,No,0.39
+CO-0121325,Garden Valley W&ampSD,El Paso,729,Yes,2.19
+CO-0121345,Grand View MHP,El Paso,202,Yes,0.62
+CO-0121350,Grandview MHP,El Paso,73,Yes,0.61
+CO-0121360,Forest Lakes MD,El Paso,238,Yes,0.87
+CO-0121410,SILVER BONNETT PARK,El Paso,36,Yes,0.89
+CO-0121415,Keeton Ranch Water,El Paso,57,No,1.68
+CO-0121450,Manitou Springs-City of,El Paso,5616,Yes,2.8
+CO-0121465,Mid Colorado Investment (El Paso),El Paso,0,No,0.54
+CO-0121470,Wigwam Mutual Water Company,El Paso,1052,Yes,2.4
+CO-0121475,Monument-Town of,El Paso,3972,Yes,1.38
+CO-0121525,Overlook Mutual WC,El Paso,40,Yes,3.3
+CO-0121550,Palmer Lake MHP,El Paso,202,Yes,1.03
+CO-0121575,Palmer Lake-Town of,El Paso,1983,Yes,0.89
+CO-0121600,Park Forest WD,El Paso,753,Yes,0.92
+CO-0121610,Peyton Pines,El Paso,45,No,0.2
+CO-0121625,Pioneer Lookout WD,El Paso,81,Yes,0.83
+CO-0121650,Prairie Estates MHP,El Paso,150,No,0.48
+CO-0121675,Ramah-Town of,El Paso,108,Yes,0.62
+CO-0121700,Red Rock Valley WD,El Paso,162,No,1.68
+CO-0121724,Falcon Area Water and Wastewater,El Paso,189,Yes,1.07
+CO-0121725,Rock Creek Mesa WD,El Paso,182,Yes,1.7
+CO-0121745,Sage Water Users,El Paso,648,No,0.54
+CO-0121750,Security MHV,El Paso,121,Yes,1.16
+CO-0121775,Security W&ampSD,El Paso,16190,No,0.39
+CO-0121800,Stratmoor Hills WD,El Paso,5262,No,0.39
+CO-0121840,TRIVIEW METROPOLITAN DISTRICT,El Paso,4573,Yes,1.03
+CO-0121841,Turkey Canon Ranch WD,El Paso,73,Yes,2.08
+CO-0121845,US Air Force Academy,El Paso,13661,No,0.39
+CO-0121850,Walden W&ampSD,El Paso,1214,Yes,0.34
+CO-0121900,Widefield Water & San District,El Paso,18144,No,0.39
+CO-0121930,Woodmen Hills Metropolitan District,El Paso,6860,Yes,0.92
+CO-0121950,Woodmoor W&ampSD,El Paso,14323,No,1.01
+CO-0122050,"Brookside, Town of",Fremont,355,Yes,0.7
+CO-0122100,"Canon City, City of",Fremont,28170,Yes,0.7
+CO-0122250,"Coal Creek, Town of",Fremont,283,No,0.44
+CO-0122450,East Florence Water Association,Fremont,264,No,0.44
+CO-0122500,Florence-City of,Fremont,6067,No,0.44
+CO-0122580,"Orchard Park Water Assn, Inc.",Fremont,63,Yes,0.7
+CO-0122600,Park Center WD,Fremont,3238,Yes,1.2
+CO-0122700,Penrose WD,Fremont,2549,Yes,1.26
+CO-0122800,"Rockvale, Town of",Fremont,408,No,0.44
+CO-0122950,"Williamsburg, Town of",Fremont,627,No,0.44
+CO-0123010,MINEOTA ESTATES,Garfield,85,Yes,0.41
+CO-0123123,Asgard Water Assoc.,Garfield,65,Yes,0.46
+CO-0123125,Aspen Glen W&ampSD,Garfield,1548,No,0.18
+CO-0123133,Battlement Mesa Incorporated,Garfield,3319,No,0.2
+CO-0123152,Aspen Equestrian,Garfield,170,No,0.1
+CO-0123155,Canyon Creek Estates,Garfield,113,No,0.17
+CO-0123166,Cattle Creek WUA,Garfield,38,No,0.2
+CO-0123167,Carbondale-Town of,Garfield,5424,No,0.18
+CO-0123170,Colorado Mountain College,Garfield,579,No,0.16
+CO-0123185,Cottonwood Springs MHP,Garfield,607,No,0.1
+CO-0123188,Crystal Valley MHP,Garfield,81,No,0.2
+CO-0123248,El Rocko MHP,Garfield,65,No,0.24
+CO-0123295,Fox Run Meadows HOA,Eagle,29,No,0.45
+CO-0123314,Glenwood Springs-City of,Garfield,7632,Yes,0.7
+CO-0123333,H Lazy F MHP,Garfield,243,No,0.1
+CO-0123343,Teller Springs Homeowners Assn,Garfield,68,No,0.3
+CO-0123345,Hawkridge HOA,Garfield,34,No,1.13
+CO-0123360,Lazy Diamond A Subdivision,Garfield,20,No,0.16
+CO-0123443,King's Row,Garfield,81,No,0.5
+CO-0123470,Lions Ridge Estates,Garfield,51,No,0.21
+CO-0123485,Red Canyon WD,Garfield,151,No,0.22
+CO-0123500,Sun Meadow Estates,Garfield,40,Yes,0.87
+CO-0123510,Mitchell-Cooper Ditch/Pipeline,Garfield,971,No,0.1
+CO-0123518,Mountain Meadows,Garfield,93,No,0.32
+CO-0123519,Mountain Valley MHP,Garfield,274,No,0.1
+CO-0123538,New Castle-Town of,Garfield,4067,No,0.21
+CO-0123552,No Name Creek Water System,Garfield,130,No,0.1
+CO-0123566,Oak Meadows Sub I-III & IV,Garfield,146,No,0.19
+CO-0123567,Oak Meadows Sub. II,Garfield,40,No,0.12
+CO-0123595,Panarama Ranches HOA,Garfield,97,No,0.42
+CO-0123601,Panoramic Mesa Subd.,Garfield,36,Yes,0.71
+CO-0123602,Parachute-Town of,Garfield,1069,No,0.38
+CO-0123605,PEACH VALLEY ORCHARD SUBDIVISION,Garfield,22,Yes,0.83
+CO-0123617,Callicotte Ranch,Garfield,27,No,0.44
+CO-0123667,Ranch at Roaring Fork,Garfield,243,No,0.23
+CO-0123670,Riverview Subdivision,Garfield,45,No,0.35
+CO-0123675,Rifle Creek Estates,Garfield,73,No,0.55
+CO-0123676,"RIFLE, CITY OF",Garfield,7681,No,0.33
+CO-0123677,Rifle Correctional Center,Garfield,232,No,0.53
+CO-0123679,Riverbend Subd.,Garfield,126,Yes,0.55
+CO-0123710,Silt-Town of,Garfield,1943,No,0.3
+CO-0123718,Springridge Subdivision,Garfield,89,No,0.18
+CO-0123725,Sunlight View Subd.,Garfield,189,No,0.29
+CO-0123726,Satank Water Association,Garfield,65,No,0.18
+CO-0123734,Talbott Enterprises,Garfield,939,No,0.4
+CO-0123742,Three Mile Trailer Ct.,Garfield,40,No,0.4
+CO-0123836,WESTBANK MESA HOME OWNERS ASSO,Garfield,75,No,0.2
+CO-0123838,Westbank Ranch HOA,Garfield,324,No,0.29
+CO-0123860,Wooden Deer Subd.,Garfield,31,No,0.52
+CO-0124147,Blackhawk-City of,Gilpin,12277,No,0.33
+CO-0124171,Central City-City of,Gilpin,3036,No,0.1
+CO-0125148,Blue Valley MD,Grand,332,No,0.47
+CO-0125155,Columbine Lake W&ampSD,Grand,346,No,0.35
+CO-0125246,Olympic Village,Grand,61,No,0.32
+CO-0125288,Fraser-Town of,Grand,1740,No,0.11
+CO-0125320,Granby Jones MHP,Grand,163,No,0.39
+CO-0125321,Granby-Town of,Grand,1396,Yes,0.7
+CO-0125322,Grand Lake-Town of,Grand,1647,No,0.24
+CO-0125323,Grand County W&ampS Dist. No. l,Grand,4371,No,0.35
+CO-0125352,Hot Sulphur Springs-Town of,Grand,556,No,0.17
+CO-0125455,Kremmling-Town of,Grand,1498,No,0.1
+CO-0125466,Lake Forest Mutual Water Co.,Grand,202,No,0.29
+CO-0125518,Moraine Park Water System,Grand,81,No,0.33
+CO-0125552,North Shore W&ampSD,Grand,306,No,0.29
+CO-0125674,Granby Town of West Service Area,Grand,0,No,0.14
+CO-0125710,Granby Silver Creek Water & San Dist.,Grand,1862,Yes,1.04
+CO-0125720,TABERNASH MEADOWS WSD,Grand,370,No,0.24
+CO-0125843,Winter Park W&ampS Dist.,Grand,5371,No,0.13
+CO-0125844,Winter Park West W&ampSD,Grand,2631,No,0.1
+CO-0125916,YMCA - Snow Mountain Ranch,Grand,468,No,0
+CO-0126117,Antelope Hills Homeowners Assn,Gunnison,215,Yes,2.2
+CO-0126121,Arrowhead Ranch WC,Gunnison,349,Yes,0
+CO-0126158,Buckhorn Ranch WS,Gunnison,113,No,0
+CO-0126175,Chair Mountain Ranch Subd.,Gunnison,30,No,0.21
+CO-0126185,Country Meadows Mobile Estates,Gunnison,91,No,0.18
+CO-0126188,Crested Butte-Town of,Gunnison,1975,No,0.31
+CO-0126189,Crested Butte South MD,Gunnison,1619,No,0.13
+CO-0126190,Mt Crested Butte W&ampSD,Gunnison,2668,No,0.1
+CO-0126220,Gunnison County W&ampSD,Gunnison,607,No,0.11
+CO-0126325,Gunnison-City of,Gunnison,7779,No,0.2
+CO-0126466,Larkspur Subd,Gunnison,45,No,0
+CO-0126505,Crested Butte W&ampSD,Gunnison,202,No,0.1
+CO-0126580,North Valley Utility Co.,Gunnison,64,No,0.37
+CO-0126618,Ponderosa MHP,Gunnison,81,No,0.16
+CO-0126677,RIVERLAND LOT OWNERS ASSOCIATION,Gunnison,298,No,0
+CO-0126715,"Somerset, Town of",Gunnison,81,Yes,1.1
+CO-0127467,Lake City W&ampSD,Hinsdale,475,No,0
+CO-0128100,Cuchara W&ampSD,Huerfano,243,No,0.2
+CO-0128300,Gardner-Town of (W&ampSD),Huerfano,324,Yes,0.62
+CO-0128400,Huajatolla Valley L&ampC WC,Huerfano,107,Yes,0.4
+CO-0128500,La Veta-Town of,Huerfano,688,No,0.27
+CO-0128600,Navajo Western WD,Huerfano,276,Yes,0.57
+CO-0128625,NAVAJO WESTERN WATER DISTRICT ESTATES,Huerfano,117,Yes,0.64
+CO-0128650,PINON HILLS SUBDIVISION,Huerfano,36,Yes,2.65
+CO-0128800,Spanish Peaks Village Tract II WA,Huerfano,112,No,0.54
+CO-0128900,Walsenburg-City of,Huerfano,2615,Yes,0.7
+CO-0129233,Eagles Watch WC,Jackson,67,No,0.23
+CO-0129834,Walden-Town of,Jackson,473,Yes,0.7
+CO-0130001,"Arvada, City of",Jefferson,118786,Yes,0.7
+CO-0130005,Blue Mountain WD,Jefferson,283,No,0.51
+CO-0130010,Brook Forest Water Dist.,Jefferson,808,Yes,1.08
+CO-0130015,Buffalo Creek WD,Jefferson,101,Yes,0.98
+CO-0130020,Consolidated Mutual/Maple Grove,Jefferson,19537,Yes,0.7
+CO-0130025,Elevado Estates LLC,Jefferson,202,Yes,1.15
+CO-0130030,Evergreen MD,Jefferson,12749,Yes,0.7
+CO-0130033,Forest Hills Metro Dist.,Jefferson,324,No,0.63
+CO-0130035,Genesee W&ampSD,Jefferson,3173,Yes,0.7
+CO-0130040,Golden-City of,Jefferson,23989,No,0.64
+CO-0130045,Hidden Valley Mutual Water Co.,Jefferson,125,No,0.18
+CO-0130050,Homestead WC,Jefferson,775,No,1.4
+CO-0130055,Idledale Water Dist.,Jefferson,283,No,0.1
+CO-0130065,Indian Hills Water Dist.,Jefferson,1052,No,1
+CO-0130070,Inspiration Valley MHP,Jefferson,202,Yes,1.41
+CO-0130075,Ken-Caryl West Ranch Water,Jefferson,113,No,0.58
+CO-0130085,Morrison-Town of,Jefferson,8003,No,0.44
+CO-0130090,Mount Vernon Country Club,Jefferson,594,No,0.14
+CO-0130095,Mountain View Village MHP,Jefferson,31,Yes,0.72
+CO-0130100,Mountain Water & Sanitation,Jefferson,1571,No,0.64
+CO-0130105,North Table Mountain W&ampS Dist.,Jefferson,8095,Yes,0.7
+CO-0130115,Park Water District,Jefferson,73,No,0.58
+CO-0130116,Alameda W&ampSD,Jefferson,2008,Yes,0.7
+CO-0130125,Sheridan Mobile Home Park,Jefferson,389,Yes,1.5
+CO-0130133,Bancroft Clover W&ampSD,Jefferson,35617,Yes,0.7
+CO-0130138,Bear Creek W&ampSD,Jefferson,24284,Yes,0.7
+CO-0130145,Consolidated Mutual WD #2,Jefferson,44254,Yes,0.7
+CO-0130152,Bonvue W&ampSD,Jefferson,283,Yes,0.7
+CO-0130187,Cragmont Water Company,Jefferson,36,No,0
+CO-0130237,"Edgewater, Town of",Jefferson,4290,Yes,0.7
+CO-0130319,Golden Terrace West,Jefferson,668,No,0.64
+CO-0130321,Green Mountain W&ampSD,Jefferson,8941,Yes,0.7
+CO-0130344,High View WD,Jefferson,3238,Yes,0.7
+CO-0130466,Lakehurst W&ampSD,Jefferson,9714,Yes,0.7
+CO-0130467,Lakewood Water Board,Jefferson,4857,Yes,0.7
+CO-0130500,Meadowbrook WD,Jefferson,2663,Yes,0.7
+CO-0130667,Ralston Valley WSD,Jefferson,1303,Yes,0.7
+CO-0130718,South Sheridan W&ampSD,Jefferson,2024,Yes,0.7
+CO-0130800,Valley WD,Jefferson,8095,Yes,0.7
+CO-0130842,Wheat Ridge WD,Jefferson,16190,Yes,0.7
+CO-0130843,Willowbrook W&ampSD,Jefferson,7567,Yes,0.7
+CO-0131200,Brandon WA,Kiowa,20,Yes,2.3
+CO-0131400,Eads-Town of,Kiowa,503,Yes,1.09
+CO-0131600,Haswell-Town of,Kiowa,45,Yes,2.06
+CO-0131800,Sheridan Lake WC,Kiowa,120,Yes,1.83
+CO-0132001,Bethune-Town of,Kit Carson,158,Yes,0.72
+CO-0132005,Burlington-City of,Kit Carson,3011,Yes,1.17
+CO-0132010,Flagler-Town of,Kit Carson,1748,Yes,0.29
+CO-0132015,Seibert-Town of,Kit Carson,240,No,0.81
+CO-0132020,Stratton-Town of,Kit Carson,777,Yes,0.45
+CO-0132025,Vona-Town of,Kit Carson,130,No,0.42
+CO-0133100,Lake Fork MHP,Lake,324,No,0.1
+CO-0133150,Lazy Acres MHP,Lake,356,No,0.32
+CO-0133300,Village Of East Fork,Lake,162,No,0.1
+CO-0133500,Mt Elbert WA,Lake,138,No,0.59
+CO-0133600,Mountain View Village MHP,Lake,183,Yes,1.38
+CO-0133700,Parkville Water District,Lake,6071,No,0
+CO-0134020,Animas Water District,La Plata,2202,Yes,0.27
+CO-0134030,"Bayfield: WTP #1, & #2",La Plata,1862,No,0
+CO-0134065,Blue Sky Ranch,La Plata,142,No,0.23
+CO-0134150,Durango-City of,La Plata,28453,Yes,0.7
+CO-0134176,Durango North Village,La Plata,121,Yes,0.27
+CO-0134180,Durango West Metro Dist #1,La Plata,607,No,0.36
+CO-0134190,Durango West Metro Dist. # 2,La Plata,753,No,0.36
+CO-0134191,LA PLATA ARCHULETA WATER DISTRICT,La Plata,364,No,0
+CO-0134192,Los Prados HOA,La Plata,36,No,0.39
+CO-0134200,Edgemont Ranch Metro. District,La Plata,971,No,0.33
+CO-0134210,El Rancho Florida,La Plata,324,No,0.23
+CO-0134225,Falfa Mobile Home Park,La Plata,32,No,0.19
+CO-0134240,Falls Creek Ranch #1,La Plata,107,No,0.12
+CO-0134270,Falls Creek Ranch #2,La Plata,60,No,0.16
+CO-0134300,Florida River Estates,La Plata,193,No,0.5
+CO-0134330,Forest Groves Estates,La Plata,93,No,0
+CO-0134338,HEARTWOOD CO HOUSING,La Plata,49,Yes,1.3
+CO-0134360,Forest Lakes Metro,La Plata,1596,No,0.1
+CO-0134390,Golden West Mobile Home Park,La Plata,162,No,0.24
+CO-0134450,Hermosa Mobile Home Village,La Plata,79,No,0.15
+CO-0134480,Hermosa Vista Home Owners,La Plata,78,No,0.48
+CO-0134500,IGNACIO TOWN OF,La Plata,648,Yes,0.15
+CO-0134510,Junction Creek MHP,La Plata,81,No,0.11
+CO-0134515,KNOLLS AT DURANGO HOA,La Plata,121,No,0.2
+CO-0134530,Lake Durango WC,La Plata,1277,No,0.36
+CO-0134540,La Plata Vista Homeowners Assn,La Plata,55,No,0.36
+CO-0134570,Lightner Creek MHP,La Plata,73,No,0.15
+CO-0134580,Los Ranchitos Inc.,La Plata,68,No,0.12
+CO-0134630,Narrow Gauge Mobile Home Park,La Plata,121,Yes,1.51
+CO-0134640,Triangle TP,La Plata,32,No,0.17
+CO-0134660,Old Homestead MHP,La Plata,97,No,0.18
+CO-0134690,Westside MHP,La Plata,191,No,0.14
+CO-0134717,SOUTHWEST HORIZON RANCH,La Plata,261,Yes,0.58
+CO-0134720,Pinewind Mobile Home Park,La Plata,49,No,0.48
+CO-0134730,Pinon Heights MHP,La Plata,35,Yes,1.24
+CO-0134750,Purgatory Metro. District,La Plata,992,No,0
+CO-0134758,Scenic Square Subdivision,La Plata,20,No,0.14
+CO-0134790,Ute Pass WA,La Plata,97,Yes,0.14
+CO-0134809,HOMESTEAD TRAILS,La Plata,209,No,0.3
+CO-0134810,Tall Pines Village,La Plata,53,Yes,0
+CO-0134840,Glacier Club,La Plata,607,No,0.2
+CO-0134855,Twilight Peaks,La Plata,63,No,0.1
+CO-0134900,Van Den Berg MD,La Plata,33,Yes,0.7
+CO-0135001,Windcliff POA,Larimer,273,No,0.08
+CO-0135138,Berthoud-Town of,Larimer,6103,Yes,0.7
+CO-0135143,Big Elk Meadows WA,Larimer,328,No,0.56
+CO-0135233,East Larimer County WD,Larimer,19661,Yes,0.7
+CO-0135237,Eden Valley Institute,Larimer,74,No,0.16
+CO-0135257,Estes Park-Town of,Larimer,13536,No,0.08
+CO-0135290,West Ft Collins Water District,Larimer,3238,Yes,0.7
+CO-0135291,Ft. Collins-City of,Larimer,145627,Yes,0.7
+CO-0135292,Ft. Collins-Loveland WD,Larimer,41688,Yes,0.7
+CO-0135315,Glacier View Meadows,Larimer,320,Yes,1.11
+CO-0135476,Carter Lake: No. & So. WTPs,Larimer,9,Yes,0.7
+CO-0135477,Little Thompson WD,Larimer,17630,Yes,0.7
+CO-0135485,Loveland-City of,Larimer,61827,Yes,0.7
+CO-0135538,Newell-Warnock WA,Larimer,130,No,0.1
+CO-0135553,North Carter Lake WD,Larimer,237,Yes,0.7
+CO-0135554,Northern Colorado WA,Larimer,3683,Yes,0.7
+CO-0135610,Pinewood Springs WD,Larimer,603,No,0.36
+CO-0135685,Rocky Mtn Natl Park-Headquarters East,Larimer,729,Yes,0.94
+CO-0135718,Soldier Canyon Filter Plant,Larimer,0,Yes,0.7
+CO-0135721,Spring Canyon W&ampSD,Larimer,1878,No,0.1
+CO-0135725,Sunrise Ranch,Larimer,61,Yes,0.15
+CO-0135726,Sunset WD,Larimer,344,Yes,0.7
+CO-0135838,Wellington-Town of,Larimer,9309,Yes,0.7
+CO-0135883,YMCA of the Rockies,Larimer,3019,No,0.27
+CO-0136100,Aguilar-Town of,Las Animas,402,No,0.24
+CO-0136185,Town of Cokedale,Las Animas,97,No,0
+CO-0136249,El Moro Hoehne Pipeline Association,Las Animas,530,Yes,0.7
+CO-0136300,Branson-Town of,Las Animas,106,No,0.23
+CO-0136400,Kim-Town of,Las Animas,94,No,0.44
+CO-0136610,Pinon WSD,Las Animas,40,No,0
+CO-0136700,Santa Fe Trail Ranch MD,Las Animas,291,Yes,0.7
+CO-0136724,Town of Starkville,Las Animas,80,No,0
+CO-0136725,Sunflower Valley Pipeline Assn,Las Animas,253,Yes,0.7
+CO-0136800,Trinidad-City of,Las Animas,9228,Yes,0.7
+CO-0136850,Trinidad Lake Ranches POA,Las Animas,162,Yes,0.7
+CO-0137001,Arriba-Town of,Lincoln,175,No,0.43
+CO-0137005,Genoa-Town of,Lincoln,117,Yes,0.64
+CO-0137010,Hugo-Town of,Lincoln,716,Yes,0.96
+CO-0137012,Karval WU Inc.,Lincoln,83,Yes,2.15
+CO-0137015,Limon-Town of,Lincoln,4112,No,0.58
+CO-0137016,Limon Correctional Fac.,Lincoln,1043,No,0.58
+CO-0138001,Buffalo Hills CG,Logan,94,No,0.26
+CO-0138005,Crook-Town of,Logan,147,No,0.25
+CO-0138010,Fleming-Town of,Logan,361,Yes,0.62
+CO-0138015,Iliff-Town of,Logan,266,No,0.42
+CO-0138025,Merino-Town of,Logan,190,Yes,0.26
+CO-0138030,Peetz-Town of,Logan,239,Yes,0.66
+CO-0138042,Sage Pointe W&ampS Co.,Logan,157,Yes,1.24
+CO-0138045,Sterling-City of,Logan,12223,No,0.58
+CO-0138725,SUNNYSLOPE HOMEOWNERS,Logan,23,Yes,2.9
+CO-0139166,Candlewood Park,Mesa,648,Yes,0.7
+CO-0139180,Clifton Water District,Mesa,27927,Yes,0
+CO-0139185,Collbran-Town of,Mesa,535,No,0.4
+CO-0139205,Debeque-Town of,Mesa,737,No,0.32
+CO-0139220,GATEWAY CANYONS WS,Mesa,300,Yes,0.65
+CO-0139321,Grand Junction-City of,Mesa,21047,Yes,0.7
+CO-0139344,HIDDEN VALLEY WC INC,Mesa,49,Yes,0.7
+CO-0139434,KANNAH CREEK,Mesa,283,No,0.12
+CO-0139505,Mesa W&ampSD,Mesa,243,No,0.23
+CO-0139510,Midlands Village,Mesa,673,Yes,0.7
+CO-0139600,Palisade-Town of,Mesa,2477,No,0.1
+CO-0139791,Ute WCD,Mesa,71741,Yes,0.7
+CO-0140500,Creede-City of,Mineral,1591,No,0.13
+CO-0140600,Creede Haven Subdivision,Mineral,70,No,0.27
+CO-0141188,Craig-City of,Moffat,8015,Yes,0.7
+CO-0141210,Dinosaur-Town of,Moffat,283,No,0.16
+CO-0142200,Cortez-City of,Montezuma,7042,No,0
+CO-0142400,Dolores-Town of,Montezuma,1316,No,0.22
+CO-0142600,Mancos Rural Water Company,Montezuma,1052,No,0.1
+CO-0142700,Mancos-Town of,Montezuma,1125,No,0.1
+CO-0142800,Montezuma Co. Water Dist. #1,Montezuma,397,No,0
+CO-0142900,Montezuma Water Company,Montezuma,11168,No,0.1
+CO-0143176,Chipeta Estates Water Co.,Montrose,2802,No,0.27
+CO-0143233,Earle Lane Subdivision,Montrose,32,No,0.48
+CO-0143505,River Meadows-The,Montrose,395,No,0.5
+CO-0143506,Menoken Water Company,Montrose,2833,No,0.27
+CO-0143510,Millard Mobile Home Park,Montrose,69,Yes,0.6
+CO-0143515,Montrose Suburban Water Works District,Montrose,695,No,0.27
+CO-0143518,Montrose-City of,Montrose,15627,No,0.27
+CO-0143525,Mustang Water Authority,Montrose,0,No,0.3
+CO-0143533,Naturita-Town of,Montrose,474,No,0.3
+CO-0143559,Nucla-Town of,Montrose,708,No,0.3
+CO-0143582,Olathe-Town of,Montrose,1376,No,0.27
+CO-0143600,Paradox Pipeline Company,Montrose,162,No,0.23
+CO-0143621,Project 7 Water Authority,Montrose,0,No,0.27
+CO-0143719,Spring View Trailer Court,Montrose,117,No,0.43
+CO-0143725,Sunprise Trailer Park,Montrose,49,No,0.54
+CO-0143755,Tri-County Water Cons.Dist.,Montrose,14733,No,0.27
+CO-0144001,Brush-City of,Morgan,4142,No,0.3
+CO-0144005,Ft. Morgan-City of,Morgan,9714,Yes,0.7
+CO-0144010,Hillrose-Town of,Morgan,243,No,0.67
+CO-0144015,Log Lane Village-Town of,Morgan,814,No,0.67
+CO-0144020,Morgan County Quality WD,Morgan,6570,No,0.67
+CO-0144025,Pagel's MHP,Morgan,243,Yes,0.51
+CO-0144035,Wiggins W&ampSD,Morgan,737,Yes,0.26
+CO-0144621,Prairie View Ranch WD,Morgan,109,Yes,0.6
+CO-0145030,Beehive WC - #1,Otero,125,Yes,1.53
+CO-0145060,Bents Old Fort WC,Otero,729,Yes,0.22
+CO-0145090,Cheraw-Town of,Otero,206,Yes,1.62
+CO-0145120,East End WA,Otero,57,Yes,2.2
+CO-0145150,Eureka WC,Otero,403,Yes,1.24
+CO-0145180,Fayette WC,Otero,61,Yes,1.28
+CO-0145210,Fowler-Town of,Otero,946,Yes,1.31
+CO-0145300,Hilltop WC,Otero,231,Yes,1.58
+CO-0145330,Holbrook Center Softwater Assn,Otero,41,Yes,1.6
+CO-0145360,Homestead Improvement Subd,Otero,70,Yes,0.22
+CO-0145420,La Junta-City of,Otero,7447,Yes,0.22
+CO-0145450,Manzanola-Town of,Otero,402,Yes,1.19
+CO-0145480,Newdale-Grand Valley WC,Otero,371,Yes,1.57
+CO-0145540,Patterson Valley WC,Otero,78,Yes,1.08
+CO-0145570,Riverside WC,Otero,73,Yes,1.62
+CO-0145600,Rocky Ford-City of,Otero,3597,Yes,0.92
+CO-0145630,North Holbrook WC,Otero,47,Yes,1.96
+CO-0145660,South Side WC,Otero,36,Yes,1.75
+CO-0145690,South Swink WC,Otero,491,Yes,1.46
+CO-0145720,Swink-Town of,Otero,534,Yes,1.05
+CO-0145750,Valley WC,Otero,219,Yes,1.12
+CO-0145780,Vroman WC,Otero,101,Yes,1.35
+CO-0145810,West Grand Valley WA,Otero,81,Yes,1.78
+CO-0146485,Dallas Creek WC,Ouray,768,No,0.11
+CO-0146588,Ouray-City of,Ouray,1182,No,0.45
+CO-0146592,Elk Meadows Estates,Ouray,174,No,0.23
+CO-0146676,Ridgway-Town of,Ouray,809,No,0.36
+CO-0147001,Alma-Town of,Park,364,No,0.33
+CO-0147010,Bailey W&ampSD,Park,391,No,0.42
+CO-0147020,Fairplay-Town of,Park,708,No,0.16
+CO-0147030,Fairplay MHP,Park,174,No,0.2
+CO-0147040,Redhill Forest POW&ampCA,Park,314,No,0.2
+CO-0147090,Shawnee WCA,Park,40,No,0.7
+CO-0147180,Warm Springs Owners MWA,Park,202,No,0.25
+CO-0147200,Will-O-Wisp MD,Park,243,Yes,1.69
+CO-0148001,Haxtun-Town of,Phillips,771,Yes,0.56
+CO-0148005,Holyoke-Town of,Phillips,2056,Yes,0.67
+CO-0148010,Paoli-Town of,Phillips,34,No,0.57
+CO-0149122,Aspen-Castle Creek WTP,Pitkin,25175,Yes,0.7
+CO-0149123,Aspen Village MHP,Pitkin,243,No,0.4
+CO-0149155,Brush Creek Water District,Pitkin,418,Yes,0.7
+CO-0149160,BUTTERMILK METRO DISTRICT,Pitkin,162,Yes,0.7
+CO-0149185,WILD CAT RANCH,Pitkin,27,No,0.2
+CO-0149188,Crystal River Country Estates,Pitkin,32,No,0.1
+CO-0149218,KK Water Assn,Pitkin,57,No,0.27
+CO-0149300,Gateway to Snowmass Mesa,Pitkin,130,No,0.28
+CO-0149352,Holland Hills,Pitkin,182,No,0.22
+CO-0149466,Lazy Glen HomeOwner Assn,Pitkin,261,No,0.19
+CO-0149467,Lazy O Ranch,Pitkin,22,No,0
+CO-0149476,Little Elk Creek,Pitkin,65,No,0.19
+CO-0149588,Orchard Estates,Pitkin,52,No,0.1
+CO-0149609,Phillips Trailer Court,Pitkin,36,No,0.19
+CO-0149611,PITKIN IRON HOA,Pitkin,33,No,0.2
+CO-0149613,WEST RANCH SUBD,Pitkin,23,No,0
+CO-0149621,Prince Creek HOA,Pitkin,40,No,0.16
+CO-0149671,Redstone W&ampSD,Pitkin,146,No,0.36
+CO-0149685,Roaring Fork MHP,Pitkin,85,No,0.4
+CO-0149710,Silversmith Apartments,Pitkin,24,No,0.23
+CO-0149717,Snowmass W&ampSD,Pitkin,5143,Yes,0.7
+CO-0149724,Starwood WD,Pitkin,243,No,0.21
+CO-0149727,Swiss Village HOA,Pitkin,77,No,0.2
+CO-0149842,Whitehorse Springs W&ampSD,Pitkin,57,No,0.39
+CO-0149843,Wildbrook Inn,Pitkin,26,No,0.31
+CO-0149844,WJ Metro District,Pitkin,262,No,0.3
+CO-0149852,Woody Creek MHP,Pitkin,178,No,0.2
+CO-0150100,A & B Water Assn,Prowers,81,Yes,1.15
+CO-0150200,Bristol W&ampSD,Prowers,170,Yes,1.2
+CO-0150300,Granada-Town of,Prowers,417,Yes,1.31
+CO-0150400,Granada WA,Prowers,306,Yes,1.17
+CO-0150500,Hartman-Town of,Prowers,75,Yes,1.91
+CO-0150600,Holly-Town of,Prowers,648,Yes,0.77
+CO-0150700,Lamar-City of,Prowers,6962,Yes,0.7
+CO-0150800,May Valley WA,Prowers,1214,Yes,1.67
+CO-0150850,Prosperity Lane Water Association,Prowers,210,Yes,0.7
+CO-0150900,Wiley-Town of,Prowers,328,Yes,0.81
+CO-0151050,Avondale W&ampSD,Pueblo,1307,Yes,0.8
+CO-0151100,Beulah Water Works Dist,Pueblo,360,Yes,0.67
+CO-0151150,Boone-Town of,Pueblo,283,Yes,0.91
+CO-0151200,Colorado City MD,Pueblo,1761,No,0.14
+CO-0151350,Mountain Shadows ME,Pueblo,45,No,0.34
+CO-0151400,Baxter Water & Services,Pueblo,283,Yes,1.18
+CO-0151450,Pine Drive WD,Pueblo,337,Yes,0.69
+CO-0151500,"Pueblo Board of WW, Whitlock",Pueblo,91860,Yes,0.7
+CO-0151650,Pueblo West MD,Pueblo,24284,Yes,0.45
+CO-0151700,Rye-Town of,Pueblo,603,No,0
+CO-0151750,Saint Charles Mesa WD,Pueblo,7844,Yes,0.7
+CO-0152188,CROSS L ESTATES,Rio Blanco,40,No,0.2
+CO-0152505,Meeker-Town of,Rio Blanco,2024,Yes,0.7
+CO-0152666,Rangely-City of,Rio Blanco,1878,Yes,0.7
+CO-0153200,Del Norte-Town of,Rio Grande,1457,No,0.13
+CO-0153450,INDIAN TRAILS,Rio Grande,78,No,0
+CO-0153600,Monte Vista-City of,Rio Grande,3724,No,0.15
+CO-0153718,South Fork Heights Apartments,Rio Grande,65,No,0
+CO-0153800,Ponderosa Subdivision,Rio Grande,73,No,0.14
+CO-0154200,Dakota Ridge,Routt,105,No,0.29
+CO-0154205,Deerwood Park,Routt,74,No,0.1
+CO-0154285,Fox Estates HOA,Routt,40,No,0.1
+CO-0154333,Hayden-Town of,Routt,3169,Yes,0.7
+CO-0154466,CATAMOUNT MD LAKE PROPERTY,Routt,174,No,0.1
+CO-0154500,MARABOU HOA,Routt,24,No,0
+CO-0154510,Milner TP,Routt,81,No,0.25
+CO-0154518,Morrison Creek Metro W&ampSD,Routt,648,No,0.36
+CO-0154524,MOUNT WERNER W+SD,Routt,13745,Yes,0.7
+CO-0154566,Oak Creek-Town of,Routt,769,No,0.29
+CO-0154609,PHIPPSBURG TOWN OF,Routt,162,No,0.22
+CO-0154715,Sleepy Bear MHP,Routt,121,No,0.35
+CO-0154724,Steamboat II W&ampSD,Routt,1174,Yes,0.7
+CO-0154725,Steamboat Springs-Town of,Routt,8054,Yes,0.7
+CO-0154743,Timbers W&ampSD,Routt,162,No,0.1
+CO-0154755,Tree Haus MD,Routt,201,No,0.11
+CO-0154842,Whitehaven MHP,Routt,45,No,0.4
+CO-0154900,Yampa-Town of,Routt,378,No,0.32
+CO-0155188,CRESTONE WS,Saguache,237,No,0
+CO-0155200,Baca Grande W&ampS - Crestone,Saguache,1230,No,0.1
+CO-0155500,Center:  E. & W. Wells,Saguache,1943,No,0.1
+CO-0155518,Moffat Town of,Saguache,20,Yes,1.34
+CO-0155700,KV Home Owners Association,Saguache,109,Yes,0.54
+CO-0155800,Saguache-Town of,Saguache,393,No,0.2
+CO-0156600,Silverton-Town of,San Juan,1932,No,0.5
+CO-0157011,Aldasoro,San Miguel,59,No,0
+CO-0157244,Elk Run Homeowners Corporation,San Miguel,49,No,0
+CO-0157300,Last Dollar Subdivision,San Miguel,45,No,0.24
+CO-0157400,Mountain Village MD,San Miguel,7042,No,0
+CO-0157500,Norwood-Town of,San Miguel,1376,Yes,0.7
+CO-0157600,Ophir-Town of,San Miguel,156,No,0.48
+CO-0157700,Sawpit-Town of,San Miguel,48,No,0.25
+CO-0157701,San Bernardo HOA,San Miguel,107,No,0.1
+CO-0157800,Telluride-Town of,San Miguel,6395,No,0.2
+CO-0157900,TELLURIDE PINES HOA,San Miguel,20,No,0.21
+CO-0157950,Wilson Mesa MD,San Miguel,211,No,0
+CO-0158001,Julesburg-Town of,Sedgwick,992,No,0.39
+CO-0158005,Ovid-Town of,Sedgwick,304,No,0.54
+CO-0158010,Sedgwick-Town of,Sedgwick,134,No,0.37
+CO-0159005,Blue River Valley Ranch Lakes,Summit,121,No,0.12
+CO-0159020,Breckenridge,Summit,22920,Yes,0.7
+CO-0159025,Buffalo Mountain MD,Summit,2145,No,0.51
+CO-0159030,Copper Mountain W&ampSD,Summit,4683,No,0
+CO-0159035,Dillon-Town of,Summit,2634,Yes,0.7
+CO-0159040,Dillon-Valley MD,Summit,2479,No,0.2
+CO-0159045,East Dillon Water District,Summit,2025,No,0.32
+CO-0159050,Farmers Korner Trailer Court,Summit,129,No,0.1
+CO-0159055,Frisco-Town of,Summit,3639,No,0.07
+CO-0159060,Halderson Pipeline,Summit,121,No,0.23
+CO-0159063,Hamilton Creek,Summit,162,No,0.28
+CO-0159065,Keystone Ranch,Summit,542,No,0.3
+CO-0159070,Kingdom Park Court,Summit,57,No,0.12
+CO-0159080,Mesa Cortina Water & San Dist,Summit,377,No,0.51
+CO-0159090,Sage Creek Canyon Corporation,Summit,320,No,0.08
+CO-0159095,Silverthorne-Town of,Summit,6037,Yes,0.7
+CO-0159105,Snake River Water Dist.,Summit,8014,No,0.2
+CO-0159120,Tanglewood Water System,Summit,49,No,0.28
+CO-0159725,SWANS NEST MD,Summit,162,No,0.09
+CO-0160050,Alpine Village MHP,Teller,65,No,0.25
+CO-0160075,Arabian Acres Subd,Teller,263,Yes,0.88
+CO-0160100,Cripple Creek-City of,Teller,2280,Yes,2.6
+CO-0160175,Florissant W&ampSD,Teller,202,Yes,2.34
+CO-0160176,Forest Glen Sports Assoc.,Teller,62,Yes,2.11
+CO-0160180,Gold Rush WC,Teller,107,No,0
+CO-0160195,Divide Water Providers,Teller,461,Yes,2.26
+CO-0160200,Highland Lakes WD,Teller,708,Yes,1.2
+CO-0160275,Divide S. Water Users & Ditch,Teller,49,Yes,1.8
+CO-0160285,Mid Colorado Investment (Teller),Teller,0,Yes,2.6
+CO-0160295,Divide MPC MD NO 1,Teller,550,No,0.5
+CO-0160350,Mountain Mutual WA,Teller,375,Yes,2.37
+CO-0160375,Rainbow Valley WD,Teller,105,Yes,1.91
+CO-0160400,Ridgewood WD,Teller,68,Yes,3.23
+CO-0160450,Rosewood Hills HOA,Teller,109,Yes,3.3
+CO-0160550,Valley Maintence. Corp. #1,Teller,380,Yes,1.5
+CO-0160551,VALLEY MAINT CORP NO 2,Teller,45,Yes,1.6
+CO-0160600,Teller Co. W&ampSD,Teller,486,Yes,1.76
+CO-0160650,Tranquil Acres WS,Teller,146,Yes,1.93
+CO-0160700,Victor-City of,Teller,397,Yes,2.1
+CO-0160711,Sierra Water Services,Teller,243,Yes,2.26
+CO-0160750,Westwood Lakes WD,Teller,364,Yes,1.31
+CO-0160900,Woodland Park-City of,Teller,6881,Yes,1.2
+CO-0160950,Woodland West Subd. WUA,Teller,202,No,0
+CO-0161001,Akron-Town of,Washington,1926,Yes,0.75
+CO-0161010,Otis-Town of,Washington,486,Yes,0.62
+CO-0162121,Aristocrat Ranchettes,Weld,1020,Yes,0.7
+CO-0162122,Central Weld County WD,Weld,6202,Yes,0.7
+CO-0162125,"Ault, Town of",Weld,1411,Yes,0.7
+CO-0162155,Briggsdale WC,Weld,273,Yes,0.66
+CO-0162159,BUFFALO RIDGE ESTATES,Weld,73,Yes,2.14
+CO-0162200,"Dacono, City of",Weld,4695,Yes,0.7
+CO-0162233,"Eaton, Town of",Weld,4857,Yes,0.7
+CO-0162255,ERIE-TOWN OF,Boulder,26574,Yes,0.7
+CO-0162255,ERIE-TOWN OF,Weld,0,Yes,0.7
+CO-0162260,"Evans, City of",Weld,15679,Yes,0.7
+CO-0162285,Foxhills HOA,Weld,36,Yes,1.8
+CO-0162288,Frederick-Town of,Weld,12731,Yes,0.7
+CO-0162291,Ft. Lupton-City of,Weld,6557,No,0.2
+CO-0162310,Gilcrest-Town of,Weld,931,Yes,0.7
+CO-0162321,"GREELEY, City of",Larimer,202,Yes,0.7
+CO-0162321,"GREELEY, City of",Weld,87222,Yes,0.7
+CO-0162322,Grover-Town of,Weld,125,No,0.39
+CO-0162359,Hudson-Town of,Weld,2712,No,0.2
+CO-0162418,Johnstown-Town of,Weld,15285,Yes,0.7
+CO-0162438,Keenesburg-Town of,Weld,2914,Yes,2.11
+CO-0162439,"Kersey, Town of",Weld,1701,Yes,0.7
+CO-0162466,La Salle-Town of,Weld,1627,Yes,0.7
+CO-0162476,"Firestone, Town of",Weld,14402,Yes,0.7
+CO-0162486,Lochbuie-Town of,Weld,5529,Yes,0.38
+CO-0162511,"Milliken, Town of",Weld,7415,Yes,0.7
+CO-0162553,North Weld County WD,Weld,10523,Yes,0.7
+CO-0162559,Nunn-Town of,Weld,389,Yes,0.7
+CO-0162610,Pierce-Town of,Weld,688,Yes,0.7
+CO-0162615,Platteville-Town of,Weld,2347,Yes,0.7
+CO-0162666,Raymer (New)-Town of,Weld,59,Yes,2.6
+CO-0162707,SEVERANCE  MUNICIPAL WATER SYSTEM,Weld,3997,Yes,0.7
+CO-0162710,New Vision MHP,Weld,162,Yes,1.65
+CO-0162833,Wattenburg Improvement Assn,Weld,283,Yes,0.28
+CO-0162843,"Windsor, Town of",Weld,16999,Yes,0.7
+CO-0163001,Eckley-Town of,Yuma,231,Yes,1.11
+CO-0163010,Wray-City of,Yuma,1896,Yes,0.84
+CO-0163020,Yuma-City of,Yuma,3278,Yes,0.79
+CO-0163706,SEABOARD FOODS LP,Yuma,107,Yes,0.69
+CO-0201006,Barr Lake RVP,Adams,165,No,0
+CO-0203002,Arapahoe County WWWA,Arapahoe,25094,No,0
+CO-0203012,Inverness WSD,Arapahoe,6589,Yes,0.7
+CO-0207500,Mcdonald Farms,Weld,625,No,0
+CO-0207504,MEADOW MOUNTAIN WS,Boulder,45,No,0.1
+CO-0208200,Chateau Chaparrel CG,Chaffee,194,Yes,1
+CO-0210017,MILL CREEK WIA,Clear Creek,54,No,0
+CO-0212466,Lake Sanchez Estates,Costilla,45,Yes,1.03
+CO-0214142,Bear Creek Landowners Association,Conejos,142,No,0
+CO-0215225,DEUTSCH DOMESTIC WATER,Delta,73,No,0.5
+CO-0215538,MAD DOG WC,Delta,49,No,0
+CO-0218015,MERIDIAN MD,Douglas,16797,No,0.11
+CO-0219123,Aspen Mountain View Subdivision,Eagle,121,No,0
+CO-0221060,Big Pines Campground,El Paso,58,No,0.47
+CO-0221445,FORT CARSON ARMY BASE,El Paso,38855,No,0
+CO-0221690,PAINT BRUSH HILLS,El Paso,2790,Yes,1.17
+CO-0223279,Four Mile Ranch HOA,Garfield,57,No,0
+CO-0223343,The Hideout at Glenwood Springs,Garfield,74,No,0.29
+CO-0223810,Herons Nest RV Park,Garfield,73,No,0.51
+CO-0226500,Marble WC,Gunnison,91,No,0
+CO-0226712,SKYLAND MD,Gunnison,271,No,0
+CO-0227700,San Juan Ranch HOA,Hinsdale,54,Yes,1.92
+CO-0234390,Happy Scenes WS Inc,La Plata,98,No,0.3
+CO-0234750,Sierra Verde Water Co LLC,La Plata,30,No,0
+CO-0234837,Well On Wheels Water Hauler,La Plata,20,No,0
+CO-0235184,CSU Main and West Housing Campus,Larimer,22160,Yes,0.7
+CO-0235185,Annunciation Heights,Larimer,259,No,0.36
+CO-0235676,Riverview CG,Larimer,364,No,0.34
+CO-0235685,Shambhala Mountain Center,Larimer,73,Yes,0.74
+CO-0238104,Advantage Treatment CTR,Logan,134,Yes,2.9
+CO-0246201,DALLAS MEADOWS COMMUNITY ASSOC,Ouray,97,No,0.35
+CO-0247010,MOORE DALE RANCH RESORT AND HOA,Park,67,No,0.39
+CO-0247017,Eleven Mile Ranch Association,Park,70,No,0.43
+CO-0251743,SIGNAL MOUNTAIN RANCH,Pueblo,53,No,0.53
+CO-0252160,Buckskin Valley Subdivision,Rio Blanco,23,No,0.35
+CO-0253718,South Fork West Municipal Town of,Rio Grande,458,No,0.03
+CO-0253860,SOUTH FORK WATER COMPANY,Rio Grande,215,No,0
+CO-0254676,Riverbend Cabins,Routt,45,No,0.18
+CO-0254724,STEAMBOAT LAKE WD,Routt,333,Yes,0.76
+CO-0259003,Timber Creek WD,Summit,253,No,0.2
+CO-0259019,Wayside,Summit,32,No,0
+CO-0260975,Wishing Well Motel,Teller,28,Yes,1.18
